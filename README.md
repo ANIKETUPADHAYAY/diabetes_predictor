@@ -1,8 +1,3 @@
-Here is the **final `README.md` content** exactly as it should appear in the file.
-👉 **Create a file named `README.md` and paste everything below (no extra formatting needed).**
-
----
-
 # 🩺 Diabetes Prediction Using Machine Learning
 
 ## 📌 Project Overview
@@ -168,13 +163,4 @@ jupyter notebook
 **Aniket Kumar Upadhayay**
 Specialization: Data Science & Machine Learning
 
----
 
-If you want, I can now:
-
-* ✅ Give a **downloadable README.md file**
-* ✅ Shorten it for **resume / GitHub recruiters**
-* ✅ Convert it to **college project report (PDF/DOC)**
-* ✅ Add **results screenshots section**
-
-Just tell me 👍
